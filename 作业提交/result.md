@@ -3,7 +3,7 @@
 06/11 10:03:50 - mmengine - INFO - The previous best checkpoint /root/autodl-tmp/project/data_fruit/exp/best_accuracy_top1_epoch_70.pth is removed
 06/11 10:03:52 - mmengine - INFO - The best checkpoint with 96.5596 accuracy/top1 at 100 epoch is saved to best_accuracy_top1_epoch_100.pth.
 Training finished successfully. 
-- 测试集结果：
+- 测试集结果：  
 Loads checkpoint by local backend from path: exp/best_accuracy_top1_epoch_100.pth
 06/12 09:53:14 - mmengine - INFO - Load checkpoint from exp/best_accuracy_top1_epoch_100.pth
 06/12 09:53:16 - mmengine - INFO - Epoch(test) [10/57]    eta: 0:00:11  time: 0.2442  data_time: 0.0553  memory: 251  

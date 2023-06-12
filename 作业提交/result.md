@@ -13,4 +13,4 @@ Loads checkpoint by local backend from path: exp/best_accuracy_top1_epoch_100.pt
 06/12 09:53:17 - mmengine - INFO - Epoch(test) [50/57]    eta: 0:00:00  time: 0.0072  data_time: 0.0002  memory: 251  
 06/12 09:53:17 - mmengine - INFO - Epoch(test) [57/57]  accuracy/top1: 93.5841  accuracy/top5: 99.1150  data_time: 0.0002  time: 0.0125
 - 推理结果：  
-- ![image](https://github.com/CloudMonica/MMPretrain_Tutorials/assets/133513694/8bb86882-de0e-45ee-9c1e-4461a1b1d65f)
+![image](https://github.com/CloudMonica/MMPretrain_Tutorials/assets/133513694/8bb86882-de0e-45ee-9c1e-4461a1b1d65f)
